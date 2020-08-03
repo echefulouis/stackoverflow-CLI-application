@@ -18,6 +18,6 @@ An example
 
 - Run the following Command on your commandline to use the application
 
-`C:\Users\Echefu Louis\Desktop\stackoverflow-CLI-application>python stack-cli your-search`
+`C:\Users\Echefu Louis\Desktop\stackoverflow-CLI-application>python stack-cli.py your-search`
 
-**NOTE**: The your-search_ should be what you want to Google
+**NOTE**: The **your-search** should be what you want to Google or search. DO NOT LEAVE IT EMPTY
